@@ -2,7 +2,7 @@
 id: doc1
 title: Introduction
 sidebar_label: Introduction
-slug: /
+slug: /Joint-Docs/
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).

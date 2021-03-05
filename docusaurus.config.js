@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Joint Docs',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://Sebery.github.io',
+  baseUrl: '/Joint-Docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -31,7 +31,7 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/Sebery/Joint-Docs',
-            routeBasePath: '/',
+            routeBasePath: '/Joint-Docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
