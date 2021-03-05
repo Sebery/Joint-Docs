@@ -31,7 +31,7 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/Sebery/Joint-Docs',
-            routeBasePath: '/Joint-Docs/',
+            routeBasePath: '/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
